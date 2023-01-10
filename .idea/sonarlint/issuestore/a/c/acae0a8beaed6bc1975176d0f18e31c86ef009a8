@@ -1,0 +1,12 @@
+
+g
+java:S1104"QMake brand a static final constant or non-public and provide accessors if needed.(ü“ÀÆ
+r
+java:S1104"\Make numberProcessors a static final constant or non-public and provide accessors if needed.(ç×§ˆ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³»ûÉ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(êâõşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢êÓ®úÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(³Õé·şÿÿÿÿ
+F
+java:S1144Y"1Remove this unused private "showComputer" method.(† õd

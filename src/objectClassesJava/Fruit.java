@@ -1,6 +1,7 @@
 package objectClassesJava;
 
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
@@ -81,8 +82,17 @@ public class Fruit {
      * Metodo que retorna arrayList de colores
      * @return
      */
-    public ArrayList<String> getColors() {
+    public ArrayList<String> getColors(String color) throws IOException {
+        colors.add(color);
         return this.colors;
+    }
+
+
+
+    public void showColors(ArrayList<String> colors) {
+        for (String color: colors) {
+            System.out.println(color);
+        }
     }
 
     /**

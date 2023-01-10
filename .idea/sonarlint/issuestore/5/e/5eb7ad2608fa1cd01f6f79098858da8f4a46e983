@@ -1,0 +1,15 @@
+
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+p
+java:S1104"UMake lastName1 a static final constant or non-public and provide accessors if needed.(ÒéÔúÿÿÿÿ
+k
+java:S1104"UMake lastName2 a static final constant or non-public and provide accessors if needed.(Õ¸ÁŞ
+p
+java:S1104"UMake dateBirth a static final constant or non-public and provide accessors if needed.(ïä¸ÿÿÿÿÿ
+m
+java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(´òƒÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³»ûÉ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(Â©ÕÂ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(Ç»Áæ
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(¬ç¤
